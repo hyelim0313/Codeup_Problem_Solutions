@@ -1,0 +1,14 @@
+// 정수 입력받아 그대로 출력하기
+
+#include <iostream>
+    
+    int main () {
+        
+        int i;
+        
+        std::cin >> i;
+        std::cout << i;
+        
+    }
+    
+// cin cout 부등호 방향 헷갈리지 않기
