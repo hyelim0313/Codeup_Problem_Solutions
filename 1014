@@ -1,0 +1,11 @@
+#include <iostream>
+
+    int main () {
+        
+        char x;
+        char y;
+        
+        std::cin >> x >> y;
+        std::cout << y << " " << x;
+        
+    }
