@@ -1,0 +1,7 @@
+#include <iostream>
+
+    int main () {
+        
+        std::cout << "\"C:\\Download\\hello.cpp\"";
+    }
+// 역슬래쉬 출력을 위해서는 \\을 작성해야 한다. 따옴표 출력을 위해서는 \" 혹은 \'을 작성해야 한다.
