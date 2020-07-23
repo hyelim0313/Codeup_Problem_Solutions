@@ -1,0 +1,11 @@
+//printing unicode: 유니코드 변환기를 이용해서 풂
+
+#include <iostream>
+
+    int main() {
+        
+        std::cout << "\u250c\u252c\u2510\n";
+        std::cout << "\u251c\u253c\u2524\n";
+        std::cout << "\u2514\u2534\u2518";
+
+    }
